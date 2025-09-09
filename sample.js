@@ -29,7 +29,8 @@ var data = [
     "Department/Course": "M.Tech Environmental Eng",
     "Job": "Assistant Professor",
     "Company": "Pondicherry University",
-    "linkedin": "https://www.linkedin.com/in/sudalai-subramani-51525345"
+    "linkedin": "https://www.linkedin.com/in/sudalai-subramani-51525345",
+    "link":"ihih"
   },
   {
     "Name": "Sindhuja Mohan",
