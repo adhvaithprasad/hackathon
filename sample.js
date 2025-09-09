@@ -5,7 +5,8 @@ var data = [
     "Department/Course": "MSc. Biotechnology",
     "Job": "Scientist",
     "Company": "Institute of Advanced Virology",
-    "linkedin": "https://www.linkedin.com/in/agiesh-kumar-550a4921"
+    "linkedin": "https://www.linkedin.com/in/agiesh-kumar-550a4921",
+    "image":"link"
   },
   {
     "Name": "Girish  Rasineni",
